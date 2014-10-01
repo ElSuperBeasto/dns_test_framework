@@ -1,2 +1,2 @@
-dns_testing_framework
+dns_test_framework
 =====================
